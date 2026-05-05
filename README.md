@@ -111,7 +111,7 @@ Includes:
 
 ## Project Structure
 
-
+```
 project/
 ├── routes/
 ├── controllers/
@@ -119,9 +119,8 @@ project/
 ├── middleware/
 ├── app.js
 ├── package.json
+```
 
-
----
 
 ## How to Run
 
